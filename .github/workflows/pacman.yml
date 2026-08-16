@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -14,14 +14,13 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate pacman contribution graph
+        uses: Kefranabg/pacman-contribution-graph-action@v1
         with:
           github_user_name: Lakshya2006178
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_dark_path: dist/pacman-contribution-graph-dark.svg
+          output_light_path: dist/pacman-contribution-graph.svg
 
       - name: Push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v4
