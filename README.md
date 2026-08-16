@@ -1,37 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Hey%2C+I%27m+Lakshya+B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+%26+Data+Science+Student+%7C+Frontend+Tinkerer+%7C+DSA+Grinder&descAlignY=58&descSize=17" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Lakshya%20B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
 </p>
 
-<h3 align="center">3rd Year AI & Data Science Student</h3>
+<h1 align="center">Hi 👋, I'm Lakshya B</h1>
+
+<h3 align="center">AI & Data Science Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=750&height=60&lines=%3E+Debugging+Life+With+AI;%3E+Hunting+The+Internet%27s+Craziest+Websites;%3E+DSA+By+Day%2C+Frontend+Magic+By+Night;%3E+Mastering+Basics%2C+One+Language+At+A+Time;%3E+Turning+Curiosity+Into+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Exploring how AI shapes every corner of technology — and building clean, animated, thoughtfully designed interfaces along the way.
+Exploring how AI shapes every corner of technology, and crafting clean, animated, thoughtfully designed frontend experiences.
 </p>
 
-<h2 align="center">🚀 About Me</h2>
 
-**Lakshya** here — a 3rd-year AI & Data Science student who's endlessly curious about how AI is quietly reshaping every layer of technology, from the models running behind the scenes to the interfaces we actually touch and feel.
+##  <h2 align="center">🚀 About Me </h2>
+
+<img align="right" src="https://github.com/Lakshya2006178.png" width="280" alt="Lakshya B"/>
+
+**Lakshya**, here — a 3rd-year AI & Data Science student who's endlessly curious about how AI is quietly reshaping every layer of technology.
 
 I use AI as a study partner, not a shortcut — mastering the fundamentals first, then pushing what I learn into real practice.
 
-Outside of AI, I have a strong pull toward **frontend development and graphic design**, especially the small animation details that make a website feel alive. I'm the person who goes down rabbit holes hunting the internet's most creative, unconventional websites just to reverse-engineer how they were built.
+Currently, I'm sharpening my basics across multiple languages and going deep on **frontend development, UI animation, and graphic design**, while sharpening my problem-solving skills through **Data Structures & Algorithms and LeetCode**.
 
-Right now, I'm sharpening my fundamentals across multiple languages and grinding **DSA & LeetCode**, because strong basics are what let you build anything else with confidence.
+My goal is simple: understand things deeply, build things beautifully, and never stop hunting the internet's craziest, most creative websites for inspiration.
 
-**Goal:** understand things deeply, build things beautifully, and never stop chasing the next crazy website.
+<br clear="right"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-DSA%20%26%20LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA"/>
-  <img src="https://img.shields.io/badge/-Frontend%20%26%20Animations-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6" alt="Frontend"/>
-  <img src="https://img.shields.io/badge/-AI%20%26%20ML%20Fundamentals-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="AI"/>
-  <img src="https://img.shields.io/badge/-Graphic%20Design-1a1b27?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Design"/>
-</p>
-
-<h2 align="center">🤝 Connect</h2>
+ <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
   <a href="https://github.com/Lakshya2006178">
@@ -71,37 +69,28 @@ Right now, I'm sharpening my fundamentals across multiple languages and grinding
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lakshya2006178&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya2006178&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lakshya2006178&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Lakshya2006178&theme=tokyonight&hide_border=false&border_radius=5" height="150"/>
 
 </div>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya2006178&theme=tokyo-night&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya2006178&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
-<h2 align="center">🏆 Trophies</h2>
+### 
+<h2 align="center">⌘ Commit Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph.svg">
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya2006178&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
-<h2 align="center">⌘ Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph-dark.svg">
 </p>
 
 <h2 align="center">⌘ Philosophy</h2>
@@ -110,6 +99,5 @@ Right now, I'm sharpening my fundamentals across multiple languages and grinding
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshya2006178&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
