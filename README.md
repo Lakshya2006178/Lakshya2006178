@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Lakshya%20B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Lakshya B</h1>
@@ -17,7 +17,7 @@ Exploring how AI shapes every corner of technology, and crafting clean, animated
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="https://github.com/Lakshya2006178.png" width="280" alt="Lakshya B"/>
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
 **Lakshya**, here — a 3rd-year AI & Data Science student who's endlessly curious about how AI is quietly reshaping every layer of technology.
 
