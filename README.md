@@ -82,15 +82,21 @@ My goal is simple: understand things deeply, build things beautifully, and never
 ### 
 <h2 align="center">⌘ Commit Activity</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph.svg">
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph-dark.svg">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Lakshya2006178/Lakshya2006178/output/pacman-contribution-graph.svg"
+      alt="Pac-Man contribution graph"
+    />
+  </picture>
 </p>
 
 <h2 align="center">⌘ Philosophy</h2>
